@@ -1,0 +1,12 @@
+{
+  "templates": [
+    {
+      "id": "default-0621",
+      "type": "spec",
+      "name": "默认规范模板 (0621，mini-trellis 版)",
+      "description": "中文文档文风规范 + 项目文档组织约定 + Pre-Dev Checklist 编写模式 + 搜索工具初始化配置 + Vision MCP 调用规范 + 图片生命周期管理 + 子代理使用边界 + 规划与执行分离 + Windows 文本 IO 编码规范 + Windows 中文路径下的 Git 脚本规范 + 外部结构结论取证。索引链接 mini-trellis 内置的记忆层指南。",
+      "path": "specs/default-0621",
+      "tags": ["mini-trellis", "docs", "writing-style", "guides", "structure", "zh", "checklist", "search", "vision", "image", "subagent", "workflow", "handoff", "windows", "encoding", "git", "scripting", "evidence", "scraping"]
+    }
+  ]
+}
